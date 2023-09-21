@@ -1,0 +1,43 @@
+1. 甜甜圈
+circles = cv2.HoughCircles(Iedge,cv2.HOUGH_GRADIENT,2,100,param1=100,param2=250,minRadius=100,maxRadius=500)
+circle.shape: (3,) circle: [ 533 1643  348]
+circle.shape: (3,) circle: [1829  849  349]
+circle.shape: (3,) circle: [2173 1677  348]
+circle.shape: (3,) circle: [965 841 348]
+circle.shape: (3,) circle: [1377 1651  327]
+2.绿
+circle.shape: (3,) circle: [648 626 409]
+circle.shape: (3,) circle: [ 994 1246   72]
+
+
+%classical
+(1828, 849) 348 
+(537, 1636) 346
+(532, 1640) 348
+(968, 843) 348
+(534, 1640) 346
+(536, 1644) 348
+(536, 1639) 344
+(537, 1633) 344
+(2182, 1673) 346
+(1824, 851) 344
+(535, 1637) 344
+(534, 1630) 340
+(1343, 1667) 348
+340.344.346.348.
+
+
+%lines information
+%%1
+number of lines: 79
+lengths of the longest lines: 50.99019513592785
+lengths of the shortest lines: 385.0
+%%2
+number of lines: 58 
+lengths of the longest lines: 54.0
+lengths of the shortest lines: 406.0
+%%3
+number of lines: 161 
+lengths of the longest lines: 50.0
+lengths of the shortest lines: 869.0
+

@@ -1,0 +1,13 @@
+1. Feature points detection.
+image 1（cat）
+SIFT : 2304
+ORB : 500
+image 2 ：（ITMO）
+SIFT : 5676
+ORB : 500
+image 3 ：（BOOK）
+SIFT : 969
+ORB : 500
+2. Feature points matching. 
+
+3. Optional. 
